@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
     private long startTime;
     private long elapsedTime = 0l;
-
     private Handler handler = new Handler();
     private Runnable updateTimer;
 
